@@ -1,1 +1,66 @@
-
+Huawei:C8600
+Huawei:CHT8000
+Huawei:Huawei Ideos X1
+Huawei:HuaweiU8180
+Huawei:IDEOS X1
+Huawei:Kyivstar Terra
+Huawei:Starshine
+Huawei:Stockholm
+Huawei:U8180
+Huawei:Pulse
+Huawei:HUAWEI T8300
+Huawei:HUAWEI T8600
+Huawei:HUAWEI T8828
+Huawei:EQ U8110
+Huawei:Huawei
+Huawei:Huawei U8110
+Huawei:HUAWEI C8813Q
+Huawei:HUAWEI C8860E
+Huawei:HUAWEI G520-T10
+Huawei:S42HW
+Huawei:A01HW
+Huawei:T8830Pro
+Huawei:U9202L-1
+Huawei:U9202L-3
+Huawei:C8500
+Huawei:C8511
+Huawei:MTS-SP101
+Huawei:C8512
+Huawei:C8600
+Huawei:C8650
+Huawei:HUAWEI Y210-0010
+Huawei:HUAWEI Ascend Y 210
+Huawei:HUAWEI Y210-0100
+Huawei:HUAWEI Y210-0151
+Huawei:HUAWEI Ascend Y 210D
+Huawei:HUAWEI Asend Y 210D
+Huawei:HUAWEI Y210-0200
+Huawei:Leopard MF808
+Huawei:NATCOM N8302
+Huawei:VIETTEL V8404
+Huawei:HUAWEI Y210-0251
+Huawei:HUAWEI Y210-2010
+Huawei:u8800
+Huawei:C8600
+Huawei:HUAWEI-M860
+Huawei:Ideos
+Huawei:M860
+Huawei:U8180
+Huawei:HUAWEI G510-0251
+Huawei:HUAWEI Ascend G525
+Huawei:HUAWEI G525-U00
+Huawei:HUAWEI B199
+Huawei:HUAWEI C199
+Huawei:HUAWEI C199s
+Huawei:HUAWEI C8812
+Huawei:HUAWEI C8813D
+Huawei:HUAWEI C8813DQ
+Huawei:HUAWEI C8815
+Huawei:HUAWEI C8816
+Huawei:HUAWEI C8816D
+Huawei:C8817D
+Huawei:HUAWEI C8817E
+Huawei:HUAWEI C8817L
+Huawei:HUAWEI C8818
+Huawei:HUAWEI C8826D
+Huawei:HUAWEI-C8850
